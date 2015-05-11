@@ -1,5 +1,5 @@
 # Kaggle-challenge-Titanic
-Predict the fate of the passengers of the Titanic (supervised learning)
+**Predict the fate of the passengers of the Titanic (supervised learning)**
 
 The repositery constains 6 files:
 
